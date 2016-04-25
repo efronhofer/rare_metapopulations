@@ -1,0 +1,8 @@
+##density-dependent dispersal? (yes / no)
+no
+
+##world dimensions: (x  y)
+10  10
+
+##k  sigma  lambda_0  disp_mort  mut_prob  ext_prob  tmax(>=100)  disp  allee  randseed  replications
+25  1  2.00  0.5  0.001  0.00  5000  0.1  0.00  1  1
